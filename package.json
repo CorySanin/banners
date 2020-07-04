@@ -1,0 +1,29 @@
+{
+  "name": "banners",
+  "version": "1.0.0",
+  "description": "A repository of custom Wii banners for GameCube games",
+  "main": "index.js",
+  "dependencies": {
+    "express": "4.17.1",
+    "serve-index": "1.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/CorySanin/banners.git"
+  },
+  "keywords": [
+    "banners",
+    "gamecube",
+    "wii",
+    "usb",
+    "loader",
+    "gx",
+    "web"
+  ],
+  "author": "Cory Sanin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/CorySanin/banners/issues"
+  },
+  "homepage": "https://gitlab.com/CorySanin/banners#readme"
+}
