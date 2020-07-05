@@ -3,7 +3,7 @@ const path = require('path');
 const express = require('express');
 const serveIndex = require('serve-index');
 const app = express();
-const port = 8080;
+const port = process.env.PORT || 8080;
 const backup = 'http://banner.rc24.xyz';
 const bannerdir = path.join(__dirname, 'banners');
 
