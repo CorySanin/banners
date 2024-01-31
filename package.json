@@ -1,6 +1,6 @@
 {
   "name": "banners",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A repository of custom Wii banners for GameCube games",
   "main": "index.js",
   "dependencies": {
