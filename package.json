@@ -4,7 +4,7 @@
   "description": "A repository of custom Wii banners for GameCube games",
   "main": "index.js",
   "dependencies": {
-    "express": "4.19.2",
+    "express": "4.21.0",
     "serve-index": "1.9.1"
   },
   "repository": {
